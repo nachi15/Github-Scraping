@@ -1,0 +1,518 @@
+Username,Description,PullReq,Ratings
+capnproto / capnproto,Cap'n Proto serialization/RPC system - core tools and C++ library,"7,806",45 stars today
+commaai / openpilot,openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.,"18,988",455 stars today
+nlohmann / json,JSON for Modern C++,"20,874",95 stars today
+VowpalWabbit / vowpal_wabbit,"Vowpal Wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning.","7,270",3 stars today
+catchorg / Catch2,"A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)","12,265",17 stars today
+facebook / folly,An open-source C++ library developed and used at Facebook.,"15,778",20 stars today
+bouffalolab / bl_iot_sdk,none,40,25 stars today
+PaddlePaddle / PaddleOCR,"Awesome multilingual OCR toolkits based on PaddlePaddle （multilingual recognition: English, Chinese, Korean, Japanese, German, French etc. 3.5M practical ultra lightweight OCR system, support training and deployment among server, mobile, embedded and IoT devices）","5,638",308 stars today
+pytorch / pytorch,Tensors and Dynamic neural networks in Python with strong GPU acceleration,"43,465",35 stars today
+bytedance / lightseq,LightSeq: A High Performance Inference Library for Sequence Processing and Generation,264,37 stars today
+pybind / pybind11,Seamless operability between C++11 and Python,"8,181",6 stars today
+GTAmodding / re3,GTA III,408,7 stars today
+ocornut / imgui,Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies,"24,218",25 stars today
+mmp / pbrt-v3,"Source code for pbrt, the renderer described in the third edition of ""Physically Based Rendering: From Theory To Implementation"", by Matt Pharr, Wenzel Jakob, and Greg Humphreys.","3,311",18 stars today
+openvinotoolkit / openvino,OpenVINO™ Toolkit repository,"1,679",10 stars today
+jxy-s / herpaderping,"Process Herpaderping proof of concept, tool, and technical deep dive. Process Herpaderping bypasses security products by obscuring the intentions of a process.",290,59 stars today
+gabime / spdlog,Fast C++ logging library.,"9,919",10 stars today
+godotengine / godot,Godot Engine – Multi-platform 2D and 3D game engine,"34,313",34 stars today
+protocolbuffers / protobuf,Protocol Buffers - Google's data interchange format,"44,521",46 stars today
+ClickHouse / ClickHouse,ClickHouse is a free analytics DBMS for big data,"12,675",25 stars today
+grpc / grpc,"The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)","27,995",26 stars today
+symless / synergy-core,"Open source core of Synergy, the keyboard and mouse sharing tool","7,739",3 stars today
+onqtam / doctest,The fastest feature-rich C++11/14/17/20 single-header testing framework,"2,862",5 stars today
+llvm / llvm-project,The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.,"6,425",17 stars today
+kitao / pyxel,A retro game engine for Python,"7,527",9 stars today
+commaai / openpilot,openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.,"18,988","1,600 stars this week"
+PaddlePaddle / PaddleOCR,"Awesome multilingual OCR toolkits based on PaddlePaddle （multilingual recognition: English, Chinese, Korean, Japanese, German, French etc. 3.5M practical ultra lightweight OCR system, support training and deployment among server, mobile, embedded and IoT devices）","5,638","1,166 stars this week"
+changkun / modern-cpp-tutorial,📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly,"8,213",287 stars this week
+ossrs / srs,"SRS is a RTMP/HLS/WebRTC/SRT/GB28181 streaming cluster, high efficiency, stable and simple.","9,862",78 stars this week
+mozilla / DeepSpeech,"DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.","15,551",93 stars this week
+protocolbuffers / protobuf,Protocol Buffers - Google's data interchange format,"44,521",188 stars this week
+facebook / folly,An open-source C++ library developed and used at Facebook.,"15,778",52 stars this week
+fmtlib / fmt,A modern formatting library,"9,550",58 stars this week
+alibaba / MNN,"MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba","4,806",91 stars this week
+catchorg / Catch2,"A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)","12,265",52 stars this week
+TheCherno / Hazel,Hazel Engine,"4,301",122 stars this week
+nlohmann / json,JSON for Modern C++,"20,874",181 stars this week
+facebookresearch / faiss,A library for efficient similarity search and clustering of dense vectors.,"11,298",76 stars this week
+grpc / grpc,"The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)","27,995",102 stars this week
+ClickHouse / ClickHouse,ClickHouse is a free analytics DBMS for big data,"12,675",120 stars this week
+simdjson / simdjson,Parsing gigabytes of JSON per second,"12,394",76 stars this week
+sogou / workflow,C++ Programming Paradigm with Asynchronous Networking,"2,260",108 stars this week
+ocornut / imgui,Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies,"24,218",129 stars this week
+Aircoookie / WLED,Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!,"3,192",67 stars this week
+jbeder / yaml-cpp,A YAML parser and emitter in C++,"2,273",26 stars this week
+llvm / llvm-project,The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.,"6,425",99 stars this week
+abseil / abseil-cpp,Abseil Common Libraries (C++),"7,622",41 stars this week
+OneLoneCoder / olcPixelGameEngine,"The official distribution of olcPixelGameEngine, a tool used in javidx9's YouTube videos and projects","1,690",44 stars this week
+tesseract-ocr / tesseract,Tesseract Open Source OCR Engine (main repository),"37,015",133 stars this week
+alphacep / vosk-api,"Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node",821,30 stars this week
+PaddlePaddle / PaddleOCR,"Awesome multilingual OCR toolkits based on PaddlePaddle （multilingual recognition: English, Chinese, Korean, Japanese, German, French etc. 3.5M practical ultra lightweight OCR system, support training and deployment among server, mobile, embedded and IoT devices）","5,638","1,672 stars this month"
+topjohnwu / Magisk,The Magic Mask for Android,"13,883",791 stars this month
+commaai / openpilot,openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.,"18,988","1,825 stars this month"
+SerenityOS / serenity,The Serenity Operating System 🐞,"7,385",461 stars this month
+TheAlgorithms / C-Plus-Plus,"Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.","8,920",545 stars this month
+llvm / llvm-project,The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.,"6,425",359 stars this month
+OneLoneCoder / olcPixelGameEngine,"The official distribution of olcPixelGameEngine, a tool used in javidx9's YouTube videos and projects","1,690",150 stars this month
+microsoft / PowerToys,Windows system utilities to maximize productivity,"40,593","3,095 stars this month"
+microsoft / calculator,Windows Calculator: A simple yet powerful calculator that ships with Windows,"20,424",216 stars this month
+changkun / modern-cpp-tutorial,📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly,"8,213","1,205 stars this month"
+ValveSoftware / Proton,Compatibility tool for Steam Play based on Wine and additional components,"12,260",361 stars this month
+opencv / opencv,Open Source Computer Vision Library,"49,660","1,163 stars this month"
+CppCon / CppCon2020,Slides and other materials from CppCon 2020,733,326 stars this month
+nlohmann / json,JSON for Modern C++,"20,874",464 stars this month
+MarlinFirmware / Marlin,Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.,"8,628",368 stars this month
+godotengine / godot,Godot Engine – Multi-platform 2D and 3D game engine,"34,313",893 stars this month
+grpc / grpc,"The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)","27,995",356 stars this month
+CMU-Perceptual-Computing-Lab / openpose,"OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation","18,988",333 stars this month
+qbittorrent / qBittorrent,qBittorrent BitTorrent client,"10,365",286 stars this month
+tensorflow / tensorflow,An Open Source Machine Learning Framework for Everyone,"1,49,644","1,098 stars this month"
+flameshot-org / flameshot,Powerful yet simple to use screenshot software,"6,830",374 stars this month
+monero-project / monero,"Monero: the secure, private, untraceable cryptocurrency","4,599",72 stars this month
+bitcoin / bitcoin,Bitcoin Core integration/staging tree,"45,685",507 stars this month
+apple / swift,The Swift Programming Language,"53,999",440 stars this month
+electron / electron,"Build cross-platform desktop apps with JavaScript, HTML, and CSS","86,628",707 stars this month
+CyC2018 / CS-Notes,📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++,"1,13,499",96 stars today
+hollischuang / toBeTopJavaer,To Be Top Javaer - Java工程师成神之路,"17,897",186 stars today
+srcrs / BilibiliTask,哔哩哔哩(B站)自动完成每日任务，投币，点赞，直播签到，自动兑换银瓜子为硬币，自动送出即将过期礼物，漫画App签到。,276,41 stars today
+preslavmihaylov / booknotes,A collection of my book notes on various computer science books,585,76 stars today
+prestosql / presto,"Home of the community managed version of Presto, the distributed SQL query engine for big data, under the auspices of the Presto Software Foundation.","1,452",4 stars today
+LuckSiege / PictureSelector,Picture Selector Library for Android or 图片选择器,"9,427",8 stars today
+nic-delhi / AarogyaSetu_Android,Aarogya Setu Android app native code,"2,756",13 stars today
+YunaiV / SpringBoot-Labs,一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024,"8,209",23 stars today
+xuxueli / xxl-job,A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）,"16,058",30 stars today
+apache / iceberg,Apache Iceberg,785,12 stars today
+Cullyege / Hacktoberfest2020,Make your Hacktoberfest 2020 contribution here! Win stickers and a T-shirt on completing 4 pull requests. (Specially for beginners)! :D,98,9 stars today
+vespa-engine / vespa,Vespa is an engine for low-latency computation over large data sets.,"3,334",3 stars today
+debezium / debezium,Change data capture for a variety of databases. Please log issues at https://issues.redhat.com/browse/DBZ.,"3,815",9 stars today
+jagrosh / MusicBot,🎶 A Discord music bot that's easy to set up and run yourself!,903,4 stars today
+apache / nifi,Apache NiFi,"2,293",2 stars today
+apache / dubbo,"Apache Dubbo is a high-performance, java based, open source RPC framework.","33,882",13 stars today
+spring-projects / spring-security,Spring Security,"5,323",5 stars today
+seata / seata-samples,seata-samples,"1,203",3 stars today
+zhisheng17 / flink-learning,flink learning blog. http://www.flink-learning.com 含 Flink 入门、概念、原理、实战、性能调优、源码解析等内容。涉及 Flink Connector、Metrics、Library、DataStream API、Table API & SQL 等内容的学习案例，还有 Flink 落地应用的大型项目案例（PVUV、日志存储、百亿数据实时去重、监控告警）分享。欢迎大家支持我的专栏《大数据实时计算引擎 Flink 实战与性能优化》,"8,438",8 stars today
+react-native-camera / react-native-camera,A Camera component for React Native. Also supports barcode scanning!,"8,733",4 stars today
+junit-team / junit5,✅ The next generation of JUnit.,"4,235",4 stars today
+mc1arke / sonarqube-community-branch-plugin,A plugin that allows branch analysis and pull request decoration in the Community version of Sonarqube,613,3 stars today
+bazelbuild / bazel,"a fast, scalable, multi-language and extensible build system","15,573",10 stars today
+apache / rocketmq,Mirror of Apache RocketMQ,"12,558",10 stars today
+Blankj / AndroidUtilCode,🔥 Android developers should collect the following utils(updating).,"28,127",8 stars today
+TeamNewPipe / NewPipe,A libre lightweight streaming front-end for Android.,"11,190",487 stars this week
+hyb1996 / Auto.js,"A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)","8,284",530 stars this week
+hollischuang / toBeTopJavaer,To Be Top Javaer - Java工程师成神之路,"17,897",505 stars this week
+alibaba / COLA,Clean Object-oriented & Layered Architecture,"3,098",62 stars this week
+JunzhouLiu / BILIBILI-HELPER,利用GitHub Action定时任务实现B站，哔哩哔哩（Bilibili）每日自动投币，签到，银瓜子兑换硬币，领取大会员福利，大会员月底给自己充电等。每天轻松获取65经验值。赶快和我一起成为Lv6吧！,862,189 stars this week
+metersphere / metersphere,An open source continuous testing platform. MeterSphere 是一站式的开源企业级持续测试平台，涵盖测试跟踪、接口测试、性能测试、团队协作等功能，全面兼容 JMeter、Postman 等开源、主流标准。项目采用 SpringBoot 2.x + MyBatis + Vue.js + Element + Docker + Kafka + MySQL等开发。,"2,394",72 stars this week
+seven332 / EhViewer,[DEPRECATED] An Unofficial E-Hentai Application for Android,"5,766",47 stars this week
+awsdocs / aws-doc-sdk-examples,"Welcome to the AWS Code Examples Repository. This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.rst file below.","2,994",37 stars this week
+Snailclimb / JavaGuide,「Java学习+面试指南」一份涵盖大部分Java程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！,"90,710",510 stars this week
+xuxueli / xxl-job,A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）,"16,058",111 stars this week
+looly / hutool,A set of tools that keep Java sweet.,"16,179",165 stars this week
+apache / dubbo,"Apache Dubbo is a high-performance, java based, open source RPC framework.","33,882",73 stars this week
+spring-projects / spring-framework,Spring Framework,"39,888",142 stars this week
+CyC2018 / CS-Notes,📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++,"1,13,499",464 stars this week
+alibaba / spring-cloud-alibaba,Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.,"16,183",113 stars this week
+alibaba / nacos,"an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.","14,712",152 stars this week
+gyoogle / tech-interview-for-developer,👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖,"2,332",67 stars this week
+ctripcorp / apollo,Apollo（阿波罗）是携程框架部门研发的分布式配置中心，能够集中化管理应用不同环境、不同集群的配置，配置修改后能够实时推送到应用端，并且具备规范的权限、流程治理等特性，适用于微服务配置管理场景。,"22,683",91 stars this week
+skylot / jadx,Dex to Java decompiler,"23,764",113 stars this week
+pagehelper / Mybatis-PageHelper,Mybatis通用分页插件,"9,752",31 stars this week
+CarGuo / GSYVideoPlayer,"视频播放器（IJKplayer、ExoPlayer、MediaPlayer），HTTPS，支持弹幕，外挂字幕，支持滤镜、水印、gif截图，片头广告、中间广告，多个同时播放，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，列表全屏动画，视频加载速度，列表小窗口支持拖动，动画效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览，列表切换详情页面无缝播放，rtsp、concat、mpeg。","15,054",47 stars this week
+PhilJay / MPAndroidChart,"A powerful 🚀 Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, panning and animations.","31,995",70 stars this week
+GeyserMC / Geyser,A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock edition.,"1,445",101 stars this week
+apache / flink,Apache Flink,"14,476",83 stars this week
+apache / hbase,Apache HBase,"3,770",22 stars this week
+huanzi-qch / base-admin,Base Admin一套简单通用的后台管理系统，主要功能有：权限管理、菜单管理、用户管理，系统设置、实时日志，实时监控，API加密，以及登录用户修改密码、配置个性菜单等,"1,432",904 stars this month
+TeamNewPipe / NewPipe,A libre lightweight streaming front-end for Android.,"11,190",838 stars this month
+hyb1996 / Auto.js,"A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)","8,284",799 stars this month
+elunez / eladmin,项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由,"11,623",815 stars this month
+doocs / advanced-java,😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识，后端同学必看，前端同学也可学习,"49,088","1,605 stars this month"
+AntennaPod / AntennaPod,A podcast manager for Android,"3,162",135 stars this month
+TheAlgorithms / Java,All Algorithms implemented in Java,"31,615","1,496 stars this month"
+zhangdaiscott / jeecg-boot,基于代码生成器的低代码平台，超越传统商业平台！前后端分离架构：SpringBoot 2.x，SpringCloud Alibaba，Ant Design&Vue，Mybatis-plus，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新开发模式(OnlineCoding-> 代码生成-> 手工MERGE)，帮助Java项目解决70%重复工作，让开发更关注业务逻辑，既能快速提高开发效率，帮助公司节省成本，同时又不失灵活性。,"16,838","1,404 stars this month"
+Anuken / Mindustry,A sandbox tower defense game,"6,293",733 stars this month
+quarkusio / quarkus,Quarkus: Supersonic Subatomic Java.,"6,167",266 stars this month
+seven332 / EhViewer,[DEPRECATED] An Unofficial E-Hentai Application for Android,"5,766",154 stars this month
+hollischuang / toBeTopJavaer,To Be Top Javaer - Java工程师成神之路,"17,897",710 stars this month
+signalapp / Signal-Android,A private messenger for Android.,"13,930",193 stars this month
+jenkinsci / jenkins,Jenkins automation server,"16,376",199 stars this month
+GeyserMC / Geyser,A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock edition.,"1,445",179 stars this month
+iluwatar / java-design-patterns,Design patterns implemented in Java,"61,679",881 stars this month
+libgdx / libgdx,Desktop/Android/HTML5/iOS Java game development framework,"17,595",163 stars this month
+apache / camel,Apache Camel is an open source integration framework that empowers you to quickly and easily integrate various systems consuming or producing data.,"3,466",57 stars this month
+tomakehurst / wiremock,A tool for mocking HTTP services,"4,129",76 stars this month
+cabaletta / baritone,google maps for block game,"2,223",116 stars this month
+gyoogle / tech-interview-for-developer,👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖,"2,332",208 stars this month
+fuzhengwei / itstack-demo-design,小傅哥微信：fustack |《重学Java设计模式「22个互联网真实案例实战」》技术好就一定能写出好代码吗？不能！再漂亮的马桶放到厨房都略显尴尬！无论是家里装修还是上道开车，只有通过实战才能快速将理论转变为技能。毕竟设计模式也是源于 克里斯托佛·亚历山大 的著作 《建筑模式语言》。,"1,412","1,283 stars this month"
+dbeaver / dbeaver,Free universal database tool and SQL client,"15,775",491 stars this month
+twowaits / SDE-Interview-Questions,"Most comprehensive list 📋 of tech interview questions 📘 of companies scraped from Geeksforgeeks, CareerCup and Glassdoor.","3,565","1,033 stars this month"
+Snailclimb / jsoncat,仿 Spring Boot 但不同于 Spring Boot 的一个轻量级的 HTTP 框架,281,225 stars this month
+ethereum / EIPs,The Ethereum Improvement Proposal repository,"5,324",3 stars today
+aws / eks-charts,Amazon EKS Helm chart repository,271,4 stars today
+TheEconomist / us-potus-model,Code for a dynamic multilevel Bayesian model to predict US presidential elections. Written in R and Stan.,"1,025",21 stars today
+amundsen-io / amundsen,"Amundsen is a metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data.","1,437",11 stars today
+sprov065 / v2-ui,支持多协议多用户的 v2ray 面板，Support multi-protocol multi-user v2ray panel,"2,486",13 stars today
+PKUanonym / REKCARC-TSC-UHT,"清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University","15,311",17 stars today
+cypress-io / cypress-example-kitchensink,This is an example app used to showcase Cypress.io testing.,653,1 stars today
+marcel-dempers / docker-development-youtube-series,none,336,2 stars today
+w3c / csswg-drafts,CSS Working Group Editor Drafts,"2,523",6 stars today
+ansible / workshops,Training Course for Ansible Automation Platform,850,0 stars today
+bitnami / charts,Helm Charts,"2,056",9 stars today
+oneapi-src / oneAPI-samples,Samples for Intel oneAPI toolkits,32,0 stars today
+LAB-MI / attestation-couvre-feu-covid-19,Service de génération de l'attestation de déplacement dérogatoire à présenter dans le cadre du couvre-feu lié au virus covid-19,28,7 stars today
+tabler / tabler,Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap,"22,114",8 stars today
+jgraph / mxgraph,mxGraph is a fully client side JavaScript diagramming library,"5,804",9 stars today
+swagger-api / swagger-codegen,"swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.","12,179",4 stars today
+chiphuyen / machine-learning-systems-design,A booklet on machine learning systems design with exercises,"5,156",19 stars today
+expressjs / expressjs.com,none,"3,607",1 stars today
+nathanreyes / v-calendar,"A lightweight, dependency-free plugin for building attributed calendars in Vue.js","2,385",2 stars today
+iwxf / free-v2ray,每天更新，分享免费V2Ray账号、订阅链接，V2Ray翻墙科学上网教程。,234,5 stars today
+KhronosGroup / glTF,glTF – Runtime 3D Asset Delivery,"4,262",2 stars today
+boostorg / boost,Super-project for modularized Boost,"3,797",5 stars today
+vector-im / element-web,A glossy Matrix collaboration client for the web.,"5,643",7 stars today
+w3c / webcomponents,Web Components specifications,"3,404",3 stars today
+sindresorhus / screenfull.js,Simple wrapper for cross-browser usage of the JavaScript Fullscreen API,"5,761",4 stars today
+TheEconomist / us-potus-model,Code for a dynamic multilevel Bayesian model to predict US presidential elections. Written in R and Stan.,"1,025",72 stars this week
+vpncn / vpncn.github.io,2020中国翻墙软件VPN推荐指南，以及对比VPS自建、SSR机场、蓝灯、WireGuard、V2ray、老王VPN等科学上网软件与翻墙方法的优缺点，中国最新科学上网翻墙VPN梯子推荐，稳定好用。,753,46 stars this week
+jwasham / computer-science-flash-cards,Mini website for testing both general CS knowledge and enforce coding practice and common algorithm/data structure memorization.,"4,891",67 stars this week
+iwxf / free-v2ray,每天更新，分享免费V2Ray账号、订阅链接，V2Ray翻墙科学上网教程。,234,50 stars this week
+spantaleev / matrix-docker-ansible-deploy,"Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker",828,11 stars this week
+PKUanonym / REKCARC-TSC-UHT,"清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University","15,311",67 stars this week
+fent / node-ytdl-core,YouTube video downloader in javascript.,"1,907",144 stars this week
+MonkSoul / Fur,🐮 Fur 是 .NET 5 平台下企业应用开发最佳实践框架。（v1.0.0-rc.final.31）,454,82 stars this week
+rfordatascience / tidytuesday,Official repo for the #tidytuesday project,"2,853",31 stars this week
+docker / awesome-compose,Awesome Docker Compose samples,"3,793",28 stars this week
+aws / eks-charts,Amazon EKS Helm chart repository,271,12 stars this week
+sprov065 / v2-ui,支持多协议多用户的 v2ray 面板，Support multi-protocol multi-user v2ray panel,"2,486",42 stars this week
+fengdu78 / Coursera-ML-AndrewNg-Notes,吴恩达老师的机器学习课程个人笔记,"19,273",141 stars this week
+QSCTech / zju-icicles,浙江大学课程攻略共享计划,"19,239",75 stars this week
+nndl / nndl.github.io,《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning,"13,450",75 stars this week
+business-science / free_r_tips,Free R-Tips is a FREE Newsletter provided by Business Science. It comes with bite-sized code tutorials every Tuesday.,95,9 stars this week
+umelabs / node.umelabs.dev,每天20:00点更新免费SS/SSR节点,266,24 stars this week
+easzlab / kubeasz,使用Ansible脚本安装K8S集群，介绍组件交互原理，方便直接，不受国内网络环境影响,"6,156",36 stars this week
+prometheus-community / helm-charts,Prometheus community Helm charts,393,37 stars this week
+Azure / SONiC,Landing page for Software for Open Networking in the Cloud (SONiC) - http://azure.github.io/SONiC/,972,5 stars this week
+Igglybuff / awesome-piracy,A curated list of awesome warez and piracy links,"11,470",42 stars this week
+amundsen-io / amundsen,"Amundsen is a metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data.","1,437",22 stars this week
+FluxionNetwork / fluxion,Fluxion is a remake of linset by vk496 with enhanced functionality.,"2,682",17 stars this week
+mdn / learning-area,Github repo for the MDN Learning Area.,"3,207",18 stars this week
+TransparentLC / WechatMomentScreenshot,朋友圈转发截图生成工具,746,77 stars this week
+PanDownloadServer / Server,PanDownload的个人维护版本,"7,135","2,900 stars this month"
+prometheus-community / helm-charts,Prometheus community Helm charts,393,154 stars this month
+marcel-dempers / docker-development-youtube-series,none,336,82 stars this month
+gustavoguanabara / html-css,Curso de HTML5 e CSS3,"1,946","1,418 stars this month"
+jwasham / computer-science-flash-cards,Mini website for testing both general CS knowledge and enforce coding practice and common algorithm/data structure memorization.,"4,891",263 stars this month
+fent / node-ytdl-core,YouTube video downloader in javascript.,"1,907",186 stars this month
+whatwg / html,HTML Standard,"4,005",107 stars this month
+TheEconomist / us-potus-model,Code for a dynamic multilevel Bayesian model to predict US presidential elections. Written in R and Stan.,"1,025",205 stars this month
+github / training-kit,Open source cheat sheets for Git and GitHub,"2,882",93 stars this month
+fengdu78 / Coursera-ML-AndrewNg-Notes,吴恩达老师的机器学习课程个人笔记,"19,273",526 stars this month
+vpncn / vpncn.github.io,2020中国翻墙软件VPN推荐指南，以及对比VPS自建、SSR机场、蓝灯、WireGuard、V2ray、老王VPN等科学上网软件与翻墙方法的优缺点，中国最新科学上网翻墙VPN梯子推荐，稳定好用。,753,124 stars this month
+home-assistant / home-assistant.io,📘 Home Assistant User documentation,"1,547",81 stars this month
+fengdu78 / deeplearning_ai_books,deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）,"12,062",243 stars this month
+vernesong / OpenClash,A Clash Client For OpenWrt,"2,150",174 stars this month
+vector-im / element-web,A glossy Matrix collaboration client for the web.,"5,643",125 stars this month
+google / fonts,Font files available from Google Fonts,"13,749",104 stars this month
+wesbos / JavaScript30,30 Day Vanilla JS Challenge,"13,870",283 stars this month
+PKUanonym / REKCARC-TSC-UHT,"清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University","15,311",235 stars this month
+TransparentLC / WechatMomentScreenshot,朋友圈转发截图生成工具,746,293 stars this month
+saltysimulations / salty-747,none,240,123 stars this month
+chiphuyen / machine-learning-systems-design,A booklet on machine learning systems design with exercises,"5,156",218 stars this month
+MonkSoul / Fur,🐮 Fur 是 .NET 5 平台下企业应用开发最佳实践框架。（v1.0.0-rc.final.31）,454,231 stars this month
+lmk02 / B787-XE,A modification of the Microsoft Flight Simulator 2020 787-10,272,120 stars this month
+jenkinsci / helm-charts,Jenkins community Helm charts,51,17 stars this month
+RayTracing / raytracing.github.io,Main Web Site (Online Books),"2,164",127 stars this month
+trekhleb / javascript-algorithms,📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings,"83,153",260 stars today
+vercel / next.js,The React Framework,"55,176",154 stars today
+microsoft / beginners-intro-javascript-node,Beginner's Series: Introduction to JavaScript (Node.js),792,8 stars today
+iptv-org / iptv,Collection of 5000+ publicly available IPTV channels from all over the world,"19,935",11 stars today
+WordPress / gutenberg,The Block Editor project for WordPress and beyond. Plugin is available from the official repository.,"6,296",3 stars today
+qishibo / AnotherRedisDesktopManager,"🚀🚀🚀A faster, better and more stable redis desktop manager, compatible with Linux, windows, mac. What's more, it won't crash when loading a large number of keys.","9,458",36 stars today
+cypress-io / cypress-example-recipes,Various recipes for testing common scenarios with Cypress,"1,557",1 stars today
+video-dev / hls.js,JavaScript HLS client using Media Source Extension,"8,595",13 stars today
+morris / vanilla-todo,A case study on viable techniques for vanilla web development.,679,122 stars today
+przemyslawpluta / node-youtube-dl,youtube-dl driver for node,"1,500",31 stars today
+the1812 / Bilibili-Evolved,"强大的哔哩哔哩增强脚本: 下载视频, 音乐, 封面, 弹幕 / 简化直播间, 评论区, 首页 / 自定义顶栏, 删除广告, 夜间模式 / 触屏设备支持","4,219",42 stars today
+ansible / awx,AWX Project,"8,534",15 stars today
+vuejs / vue,"🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.","1,74,499",66 stars today
+plotly / plotly.js,Open-source JavaScript charting library behind Plotly and Dash,"12,381",7 stars today
+carbon-design-system / carbon,A design system built by IBM,"3,597",4 stars today
+givanz / VvvebJs,Drag and drop website builder javascript library.,"3,523",13 stars today
+mrdoob / three.js,JavaScript 3D library.,"64,393",44 stars today
+OpenZeppelin / openzeppelin-contracts,OpenZeppelin Contracts is a library for secure smart contract development.,"8,629",3 stars today
+GideonSenku / Scriptable,A iOS app named Scriptable's scripts,363,21 stars today
+mozilla / hubs,Duck-themed multi-user virtual spaces in WebVR. Built with A-Frame.,860,4 stars today
+apache / incubator-echarts,"A powerful, interactive charting and data visualization library for browser","43,400",23 stars today
+jquense / yup,Dead simple Object schema validation,"11,339",16 stars today
+ThisIsBenny / iOS-Widgets,Collection of iOS Widgets,87,20 stars today
+pedrorenan / js-expert-week,Repoitório utilizado durante a Semana JS Expert com Erick Wendel,60,10 stars today
+ryanhanwu / How-To-Ask-Questions-The-Smart-Way,本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。,"12,890",14 stars today
+tomer8007 / widevine-l3-decryptor,A Chrome extension that demonstrates bypassing Widevine L3 DRM,619,352 stars this week
+jonasschmedtmann / complete-javascript-course,"Starter files, final projects and FAQ for my Complete JavaScript course","5,159",419 stars this week
+GitSquared / edex-ui,"A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.","19,015","2,025 stars this week"
+jiayiwang5 / TaoBaoScripts,淘宝/支付宝/京东/拼多多，双十一任务脚本，auto.js适用安卓,261,66 stars this week
+nodejs / node,Node.js JavaScript runtime ✨🐢🚀✨,"74,370",565 stars this week
+lxk0301 / scripts,"京东薅羊毛工具, 京东水果、宠物、种豆等等","1,623",732 stars this week
+axios / axios,Promise based HTTP client for the browser and node.js,"78,306",287 stars this week
+facebook / react,"A declarative, efficient, and flexible JavaScript library for building user interfaces.","1,58,237",595 stars this week
+facebook / create-react-app,Set up a modern web app by running one command.,"83,292",465 stars this week
+vercel / next.js,The React Framework,"55,176",593 stars this week
+sveltejs / svelte,Cybernetically enhanced web apps,"38,920",736 stars this week
+zhaoolee / ChineseBQB,"🇨🇳 Chinese sticker pack,More joy / 表情包的博物馆, Github最有毒的仓库, 中国表情包大集合, 聚欢乐~","8,160",150 stars this week
+chavyleung / scripts,none,"1,490",62 stars this week
+trekhleb / javascript-algorithms,📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings,"83,153",632 stars this week
+apache / incubator-echarts,"A powerful, interactive charting and data visualization library for browser","43,400",119 stars this week
+taniarascia / webpack-boilerplate,📦 A sensible webpack 5 boilerplate.,906,70 stars this week
+qishibo / AnotherRedisDesktopManager,"🚀🚀🚀A faster, better and more stable redis desktop manager, compatible with Linux, windows, mac. What's more, it won't crash when loading a large number of keys.","9,458",178 stars this week
+awesome-selfhosted / awesome-selfhosted,A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers,"49,620",236 stars this week
+NervJS / taro,开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5 等应用。 https://taro.jd.com/,"27,297",115 stars this week
+PanJiaChen / vue-admin-template,a vue2.0 minimal admin template,"12,379",77 stars this week
+pedroslopez / whatsapp-web.js,A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app,"1,105",55 stars this week
+nondanee / UnblockNeteaseMusic,Revive unavailable songs for Netease Cloud Music,"11,982",89 stars this week
+cruip / tailwind-landing-page-template,Simple Light is a free landing page template built on top of TailwindCSS and fully coded in React. Made by,284,116 stars this week
+h5bp / html5-boilerplate,"A professional front-end template for building fast, robust, and adaptable web apps or sites.","47,690",262 stars this week
+myliang / x-spreadsheet,A web-based JavaScript（canvas） spreadsheet,"10,188",52 stars this week
+mengshukeji / Luckysheet,"Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.","5,423","3,410 stars this month"
+lxk0301 / scripts,"京东薅羊毛工具, 京东水果、宠物、种豆等等","1,624","1,288 stars this month"
+30-seconds / 30-seconds-of-code,Short JavaScript code snippets for all your development needs,"64,867","2,717 stars this month"
+jonasschmedtmann / complete-javascript-course,"Starter files, final projects and FAQ for my Complete JavaScript course","5,159",579 stars this month
+GitSquared / edex-ui,"A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.","19,015","2,627 stars this month"
+odoo / odoo,Odoo. Open Source Apps To Grow Your Business.,"19,223",417 stars this month
+TheAlgorithms / Javascript,A repository for All algorithms implemented in Javascript (for educational purposes only),"6,925","1,603 stars this month"
+freeCodeCamp / freeCodeCamp,freeCodeCamp.org's open source codebase and curriculum. Learn to code at home.,"3,16,235","1,571 stars this month"
+vercel / next.js,The React Framework,"55,176","1,575 stars this month"
+tobspr / shapez.io,shapez.io is an open source base building game inspired by factorio! Available on web & desktop,"2,866",760 stars this month
+axios / axios,Promise based HTTP client for the browser and node.js,"78,306","1,030 stars this month"
+chartjs / Chart.js,Simple HTML5 Charts using the <canvas> tag,"50,786",418 stars this month
+remoteintech / remote-jobs,A list of semi to fully remote-friendly companies in tech.,"15,680","2,571 stars this month"
+gorhill / uBlock,uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.,"22,411",606 stars this month
+checkly / headless-recorder,Headless recorder is a Chrome extension that records your browser interactions and generates a Puppeteer or Playwright script.,"12,157","2,445 stars this month"
+reactjs / reactjs.org,The React documentation website,"5,114",181 stars this month
+pedroslopez / whatsapp-web.js,A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app,"1,105",185 stars this month
+sveltejs / svelte,Cybernetically enhanced web apps,"38,920","1,696 stars this month"
+bkimminich / juice-shop,OWASP Juice Shop: Probably the most modern and sophisticated insecure web application,"3,908",151 stars this month
+karlhadwen / netflix,Subscribe to my YouTube channel: https://bit.ly/CognitiveSurge - Building Netflix Using React,695,397 stars this month
+gatsbyjs / gatsby,"Build blazing fast, modern apps and websites with React","47,627",634 stars this month
+h5bp / html5-boilerplate,"A professional front-end template for building fast, robust, and adaptable web apps or sites.","47,690",909 stars this month
+hakimel / reveal.js,The HTML Presentation Framework,"53,506",351 stars this month
+strapi / strapi,🚀 Open source Node.js Headless CMS to easily build customisable APIs,"30,523","1,184 stars this month"
+discordjs / discord.js,A powerful JavaScript library for interacting with the Discord API,"7,845",813 stars this month
+MrS0m30n3 / youtube-dl-gui,A cross platform front-end GUI of the popular youtube-dl written in wxPython.,"5,414",159 stars today
+lrvick / youtube-dl,RIAA: Please go die in a fire.,383,196 stars today
+donnemartin / system-design-primer,Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.,"1,10,294",103 stars today
+l1ving / youtube-dl,A copyright-respecting fork of youtube-dl,"1,168",184 stars today
+youtube-dl2 / youtube-dl,Repository with the code of youtube-dl,410,76 stars today
+alexa / bort,"Repository for the paper ""Optimal Subarchitecture Extraction for BERT""",201,50 stars today
+EssayKillerBrain / EssayKiller_V2,基于开源GPT2.0的初代创作型人工智能 | 可扩展、可进化,"1,109",118 stars today
+python / cpython,The Python programming language,"34,225",24 stars today
+corkami / mitra,A generator of binary polyglots,337,53 stars today
+chubin / cheat.sh,the only cheat sheet you need,"19,569",21 stars today
+sherlock-project / sherlock,🔎 Hunt down social media accounts by username across social networks,"16,486",236 stars today
+lucidrains / performer-pytorch,"An implementation of Performer, a linear attention-based transformer, in Pytorch",129,21 stars today
+ytisf / theZoo,A repository of LIVE malwares for your own joy and pleasure. theZoo is a project created to make the possibility of malware analysis open and available to the public.,"6,312",4 stars today
+soimort / you-get,⏬ Dumb downloader that scrapes the web,"36,040",186 stars today
+confluentinc / confluent-kafka-python,Confluent's Kafka Python Client,"2,000",5 stars today
+awslabs / aws-serverless-data-lake-framework,"Enterprise-grade, production-hardened, serverless data lake on AWS",70,21 stars today
+teja156 / microsoft-teams-class-attender,A bot to attend classes on microsoft teams,22,6 stars today
+numpy / numpy,The fundamental package for scientific computing with Python.,"15,238",10 stars today
+google-research / multilingual-t5,none,314,70 stars today
+microsoft / playwright-python,Python version of the Playwright testing and automation library.,"1,230",45 stars today
+PostHog / posthog,"🦔 PostHog is developer-friendly, open-source product analytics.","3,334",6 stars today
+man-group / dtale,Visualizer for pandas data structures,"1,572",39 stars today
+scastillo / not-youtube-dl,This is not youtube-dl,728,118 stars today
+nficano / pytube,"A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.","3,564",4 stars today
+kyb3r / modmail,A feature rich discord Modmail bot,793,5 stars today
+sherlock-project / sherlock,🔎 Hunt down social media accounts by username across social networks,"16,486","1,351 stars this week"
+soimort / you-get,⏬ Dumb downloader that scrapes the web,"36,040",608 stars this week
+kangvcar / InfoSpider,INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱🧰，旨在安全快捷的帮助用户拿回自己的数据，工具代码开源，流程透明。支持数据源包括GitHub、QQ邮箱、网易邮箱、阿里邮箱、新浪邮箱、Hotmail邮箱、Outlook邮箱、京东、淘宝、支付宝、中国移动、中国联通、中国电信、知乎、哔哩哔哩、网易云音乐、QQ好友、QQ群、生成朋友圈相册、浏览器浏览历史、12306、博客园、CSDN博客、开源中国博客、简书。,"2,817",244 stars this week
+pytorch / fairseq,Facebook AI Research Sequence-to-Sequence Toolkit written in Python.,"10,060",430 stars this week
+aristocratos / bpytop,Linux/OSX/FreeBSD resource monitor,"3,615",226 stars this week
+wangzheng0822 / algo,数据结构和算法必知必会的50个代码实现,"16,883",90 stars this week
+s0md3v / Photon,Incredibly fast crawler designed for OSINT.,"7,078",96 stars this week
+EssayKillerBrain / EssayKiller_V2,基于开源GPT2.0的初代创作型人工智能 | 可扩展、可进化,"1,109",496 stars this week
+adamerose / pandasgui,A GUI for Pandas DataFrames,"1,458",598 stars this week
+satwikkansal / wtfpython,What the f*ck Python?,"22,502",548 stars this week
+rwightman / pytorch-image-models,"PyTorch image models, scripts, pretrained weights -- (SE)ResNet/ResNeXT, DPN, EfficientNet, MixNet, MobileNet-V3/V2, MNASNet, Single-Path NAS, FBNet, and more","5,258",283 stars this week
+Gr1mmie / Practical-Ethical-Hacking-Resources,Compilation of Resources from TCM's Practical Ethical Hacking Udemy Course,916,100 stars this week
+PyTorchLightning / pytorch-lightning,"The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.","9,569",569 stars this week
+alexandreborges / malwoverview,"Malwoverview is a first response tool used for downloading and screening malware samples, suspicious URLs, IP address, domains. Malwoverview offers threat hunting information from Virus Total, Hybrid Analysis, URLHaus, Polyswarm, Malshare, Alien Vault, Malpedia, ThreatCrowd, Valhalla and it is able to scan Android devices against VT and HA.","1,107",100 stars this week
+s0md3v / XSStrike,Most advanced XSS scanner.,"8,539",64 stars this week
+3b1b / manim,Animation engine for explanatory math videos,"26,644",485 stars this week
+iperov / DeepFaceLab,DeepFaceLab is the leading software for creating deepfakes.,"20,770",387 stars this week
+lucidrains / lambda-networks,"Implementation of LambdaNetworks, a new approach to image recognition that reaches SOTA with less compute",964,262 stars this week
+apache / airflow,"Apache Airflow - A platform to programmatically author, schedule, and monitor workflows","18,725",116 stars this week
+xiaoming2028 / FreePAC,科学上网/梯子/自由上网/翻墙 SS/SSR/V2Ray/Brook 搭建教程 免费机场、VPN工具,"3,386",42 stars this week
+ansible / ansible,"Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.","45,430",258 stars this week
+ultralytics / yolov5,YOLOv5 in PyTorch > ONNX > CoreML > TFLite,"5,761",165 stars this week
+tiangolo / fastapi,"FastAPI framework, high performance, easy to learn, fast to code, ready for production","22,509",293 stars this week
+nficano / pytube,"A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.","3,564",28 stars this week
+PySimpleGUI / PySimpleGUI,"Launched in 2018 Actively developed and supported. Supports tkinter, Qt, WxPython, Remi (in browser). Create custom layout GUI's simply. Python 2.7 & 3 Support. 200+ Demo programs & Cookbook for rapid start. Extensive documentation. Examples using Machine Learning(GUI, OpenCV Integration, Chatterbot), Floating Desktop Widgets, Matplotlib + Pyplo…","4,731",82 stars this week
+TheAlgorithms / Python,All Algorithms implemented in Python,"90,553","4,737 stars this month"
+home-assistant / core,🏡 Open source home automation that puts local control and privacy first,"36,789","1,120 stars this month"
+google-research / football,Check out the new game server:,"2,457",207 stars this month
+PyTorchLightning / pytorch-lightning,"The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.","9,569","1,041 stars this month"
+soimort / you-get,⏬ Dumb downloader that scrapes the web,"36,040",982 stars this month
+apprenticeharper / DeDRM_tools,DeDRM tools for ebooks,"8,759",413 stars this month
+microsoft / Bringing-Old-Photos-Back-to-Life,Bringing Old Photo Back to Life (CVPR 2020 oral),"1,513",769 stars this month
+CorentinJ / Real-Time-Voice-Cloning,Clone a voice in 5 seconds to generate arbitrary speech in real-time,"21,166","1,626 stars this month"
+pytorch / fairseq,Facebook AI Research Sequence-to-Sequence Toolkit written in Python.,"10,060","1,037 stars this month"
+matplotlib / matplotlib,matplotlib: plotting with Python,"12,497",289 stars this month
+facebookresearch / frankmocap,A Strong and Easy-to-use Single View 3D Hand+Body Pose Estimator,648,306 stars this month
+geerlingguy / ansible-for-devops,Ansible for DevOps examples.,"3,882",470 stars this month
+ct-Open-Source / tuya-convert,A collection of scripts to flash Tuya IoT devices to alternative firmwares,"2,204",133 stars this month
+sherlock-project / sherlock,🔎 Hunt down social media accounts by username across social networks,"16,486","1,667 stars this month"
+python-poetry / poetry,Python dependency management and packaging made easy.,"12,670",381 stars this month
+willmcgugan / rich,Rich is a Python library for rich text and beautiful formatting in the terminal.,"13,398",861 stars this month
+nvbn / thefuck,Magnificent app which corrects your previous console command.,"56,822","1,227 stars this month"
+huggingface / transformers,🤗Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.,"35,815","1,600 stars this month"
+eriklindernoren / ML-From-Scratch,Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.,"18,297","1,512 stars this month"
+malwaredllc / byob,"An open-source post-exploitation framework for students, researchers and developers.","5,404",424 stars this month
+Asabeneh / 30-Days-Of-Python,30 days of Python programming challenge is a step by step guide to learn Python programming language in 30 days.,"2,305","1,152 stars this month"
+dabeaz-course / practical-python,Practical Python Programming (course by @dabeaz),"6,589","1,195 stars this month"
+apachecn / AiLearning,AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP,"27,631",575 stars this month
+NVlabs / imaginaire,NVIDIA PyTorch GAN library with distributed and mixed precision support,"1,605","1,402 stars this month"
+Gr1mmie / Practical-Ethical-Hacking-Resources,Compilation of Resources from TCM's Practical Ethical Hacking Udemy Course,916,221 stars this month
+CocoaPods / CocoaPods,The Cocoa Dependency Manager.,"12,777",3 stars today
+fastlane / fastlane,🚀 The easiest way to automate building and releasing your iOS and Android apps,"30,019",6 stars today
+github / scientist,🔬 A Ruby library for carefully refactoring critical paths.,"5,755",10 stars today
+dependabot / dependabot-core,"🤖 The core logic behind Dependabot's update PR creation, and the public issue tracker for all things Dependabot","1,469",4 stars today
+opf / openproject,OpenProject is the leading open source project management software.,"4,300",3 stars today
+heartcombo / devise,Flexible authentication solution for Rails with Warden.,"21,188",2 stars today
+github-changelog-generator / github-changelog-generator,"Automatically generate change log from your tags, issues, labels and pull requests on GitHub.","6,179",3 stars today
+luggit / react-native-config,Bring some 12 factor love to your mobile apps!,"3,340",6 stars today
+rswag / rswag,Seamlessly adds a Swagger to Rails-based API's,872,2 stars today
+thoughtbot / factory_bot,A library for setting up Ruby objects as test data.,"7,012",4 stars today
+ankane / strong_migrations,Catch unsafe migrations in development,"2,246",2 stars today
+sonic-pi-net / sonic-pi,Code. Music. Live.,"6,198",4 stars today
+discourse / discourse,"A platform for community discussion. Free, open, simple.","31,778",9 stars today
+ruby / ruby,The Ruby Programming Language [mirror],"17,452",6 stars today
+decidim / decidim,The participatory democracy framework. A generator and multiple gems made with Ruby on Rails,793,0 stars today
+pivotal / LicenseFinder,Find licenses for your project's dependencies.,"1,109",2 stars today
+solidusio / solidus,"🛒Solidus, Rails eCommerce System","3,330",4 stars today
+sinatra / sinatra,Classy web-development dressed in a DSL (official / canonical repo),"11,107",1 stars today
+thoughtbot / administrate,A Rails engine that helps you put together a super-flexible admin dashboard.,"4,917",3 stars today
+kilimchoi / engineering-blogs,A curated list of engineering blogs,"17,464",14 stars today
+Shopify / packwerk,Good things come in small packages.,381,5 stars today
+alexeygrigorev / data-science-interviews,Data science interview questions and answers,"3,546",5 stars today
+thoughtbot / paperclip,Easy file attachment management for ActiveRecord,"9,066",0 stars today
+thoughtbot / shoulda-matchers,Simple one-liner tests for common Rails functionality,"2,935",0 stars today
+shrinerb / shrine,File Attachment toolkit for Ruby applications,"2,720",2 stars today
+rubocop-hq / rubocop,"A Ruby static code analyzer and formatter, based on the community Ruby style guide.","11,125",29 stars this week
+faker-ruby / faker,"A library for generating fake data such as names, addresses, and phone numbers.","8,944",14 stars this week
+rails / rails,Ruby on Rails,"46,759",57 stars this week
+solidusio / solidus,"🛒Solidus, Rails eCommerce System","3,330",19 stars this week
+tootsuite / mastodon,"Your self-hosted, globally interconnected microblogging community","22,137",72 stars this week
+spree / spree,"Spree is an open source E-commerce platform for Rails 6 with a modern UX, optional PWA frontend, REST API, GraphQL, several official extensions and 3rd party integrations. Over 1 million downloads and counting! Check it out:","10,735",23 stars this week
+rails / webpacker,Use Webpack to manage app-like JavaScript modules in Rails,"4,915",11 stars this week
+rapid7 / metasploit-framework,Metasploit Framework,"21,936",83 stars this week
+jsonapi-serializer / jsonapi-serializer,A fast JSON:API serializer for Ruby (fork of Netflix/fast_jsonapi),470,18 stars this week
+heartcombo / devise,Flexible authentication solution for Rails with Warden.,"21,188",19 stars this week
+github / linguist,"Language Savant. If your repository's language is being reported incorrectly, send us a pull request!","8,155",28 stars this week
+chatwoot / chatwoot,"Open-source live chat software, an alternative to Intercom, Zendesk, Drift, Crisp etc. 🔥💬","4,742",31 stars this week
+fastlane / fastlane,🚀 The easiest way to automate building and releasing your iOS and Android apps,"30,019",54 stars this week
+jekyll / jekyll,🌐 Jekyll is a blog-aware static site generator in Ruby,"41,507",62 stars this week
+discourse / discourse,"A platform for community discussion. Free, open, simple.","31,778",42 stars this week
+decidim / decidim,The participatory democracy framework. A generator and multiple gems made with Ruby on Rails,793,6 stars this week
+Homebrew / brew,🍺 The missing package manager for macOS (or Linux),"23,465",93 stars this week
+activeadmin / activeadmin,The administration framework for Ruby on Rails applications.,"8,849",4 stars this week
+mame / quine-relay,An uroboros program with 100+ programming languages,"9,641",40 stars this week
+github / scientist,🔬 A Ruby library for carefully refactoring critical paths.,"5,755",17 stars this week
+mperham / sidekiq,"Simple, efficient background processing for Ruby","10,623",13 stars this week
+elastic / logstash,"Logstash - transport and process your logs, events, or other data","11,736",25 stars this week
+hashicorp / vault-rails,A Rails plugin for easily integrating Vault secrets,296,0 stars this week
+learn-co-curriculum / sinatra-from-scratch-readme,none,4,0 stars this week
+thoughtbot / factory_bot,A library for setting up Ruby objects as test data.,"7,012",10 stars this week
+tootsuite / mastodon,"Your self-hosted, globally interconnected microblogging community","22,137",273 stars this month
+opf / openproject,OpenProject is the leading open source project management software.,"4,300",187 stars this month
+freeCodeCamp / how-to-contribute-to-open-source,A guide to contributing to open source,"4,217",225 stars this month
+forem / forem,For empowering community 🌱,"15,349",447 stars this month
+puma / puma,A Ruby/Rack web server built for concurrency,"6,550",261 stars this month
+Homebrew / brew,🍺 The missing package manager for macOS (or Linux),"23,465",385 stars this month
+rapid7 / metasploit-framework,Metasploit Framework,"21,936",320 stars this month
+github / view_component,"A framework for building reusable, testable & encapsulated view components in Ruby on Rails.","1,264",157 stars this month
+huginn / huginn,Create agents that monitor and act on your behalf. Your agents are standing by!,"29,877",334 stars this month
+rubocop-hq / rubocop,"A Ruby static code analyzer and formatter, based on the community Ruby style guide.","11,125",88 stars this month
+digitalocean / hacktoberfest,Hacktoberfest - App to manage the annual open source challenge.,498,403 stars this month
+crweiner / hacktoberfest-swag-list,"Multiple companies give out swag for Hacktoberfest, and this repo tries to list them all.","1,201",628 stars this month
+redmine / redmine,Mirror of redmine code source - Official SVN repository is at https://svn.redmine.org/redmine - contact: @jbbarth or jeanbaptiste.barth (at) gmail (dot) com,"3,889",37 stars this month
+rails / rails,Ruby on Rails,"46,759",259 stars this month
+discourse / discourse,"A platform for community discussion. Free, open, simple.","31,778",229 stars this month
+faker-ruby / faker,"A library for generating fake data such as names, addresses, and phone numbers.","8,944",58 stars this month
+github / choosealicense.com,A site to provide non-judgmental guidance on choosing a license for your open source project,"2,135",58 stars this month
+CocoaPods / CocoaPods,The Cocoa Dependency Manager.,"12,777",77 stars this month
+Homebrew / homebrew-core,🍻 Default formulae for the missing package manager for macOS,"8,209",138 stars this month
+postalhq / postal,📨 A fully featured open source mail delivery platform for incoming & outgoing e-mail,"10,067",95 stars this month
+elastic / logstash,"Logstash - transport and process your logs, events, or other data","11,736",82 stars this month
+Homebrew / homebrew-cask-versions,🔢 Alternate versions of Casks,854,15 stars this month
+solidusio / solidus,"🛒Solidus, Rails eCommerce System","3,330",45 stars this month
+rubyforgood / casa,"Volunteer management system for nonprofit CASA, which serves foster youth in counties across America.",65,29 stars this month
+github / explore,Community-curated topic and collection pages on GitHub,"1,927",64 stars this month
+spotify / scio,A Scala API for Apache Beam and Google Cloud Dataflow.,"2,011",1 stars today
+yahoo / CMAK,CMAK is a tool for managing Apache Kafka clusters,"9,493",6 stars today
+apache / spark,Apache Spark - A unified analytics engine for large-scale data processing,"27,917",13 stars today
+chipsalliance / rocket-chip,Rocket Chip Generator,"1,602",0 stars today
+polynote / polynote,A better notebook for Scala (and more),"4,010",2 stars today
+xxf098 / shadowsocksr-v2ray-trojan-android,"A ShadowsocksR, V2Ray and Trojan client for Android",859,6 stars today
+typelevel / cats,"Lightweight, modular, and extensible library for functional programming.","4,086",2 stars today
+freechipsproject / chisel3,Chisel 3: A Modern Hardware Design Language,"1,523",1 stars today
+zio / zio,"ZIO — A type-safe, composable library for async and concurrent programming in Scala","2,535",3 stars today
+delta-io / delta,"An open-source storage layer that brings scalable, ACID transactions to Apache Spark™ and big data workloads.","2,842",2 stars today
+awslabs / deequ,"Deequ is a library built on top of Apache Spark for defining ""unit tests for data"", which measure data quality in large datasets.","1,289",2 stars today
+scala / scala,"Scala 2 compiler and standard library. For bugs, see scala/bug","12,974",5 stars today
+playframework / playframework,Play Framework,"11,722",1 stars today
+apache / openwhisk,Apache OpenWhisk is an open source serverless cloud platform,"4,964",2 stars today
+sifive / fpga-shells,none,80,0 stars today
+sifive / sifive-blocks,Common RTL blocks used in SiFive's projects,123,0 stars today
+databricks / Spark-The-Definitive-Guide,Spark: The Definitive Guide's Code Repository,"1,657",5 stars today
+sifive / block-inclusivecache-sifive,none,31,0 stars today
+JohnSnowLabs / spark-nlp,State of the Art Natural Language Processing,"1,660",1 stars today
+sifive / soc-freedom-sifive,e300 and u500 devkits,7,0 stars today
+sifive / soc-testsocket-sifive,A simple SoC for testing IP blocks,8,0 stars today
+lampepfl / dotty,Research compiler that will become Scala 3,"4,148",2 stars today
+firesim / icenet,"Network components (NIC, Switch) for FireBox",4,0 stars today
+ucb-bar / riscv-torture,RISC-V Torture Test,52,0 stars today
+WeBankFinTech / Linkis,"Linkis helps easily connect to various back-end computation/storage engines(Spark, Python, TiDB...), exposes various interfaces(REST, JDBC, Java ...), with multi-tenancy, high performance, and resource control.","1,590",63 stars this week
+freechipsproject / chisel3,Chisel 3: A Modern Hardware Design Language,"1,523",7 stars this week
+apache / spark,Apache Spark - A unified analytics engine for large-scale data processing,"27,917",62 stars this week
+spotify / scio,A Scala API for Apache Beam and Google Cloud Dataflow.,"2,011",9 stars this week
+xxf098 / shadowsocksr-v2ray-trojan-android,"A ShadowsocksR, V2Ray and Trojan client for Android",859,25 stars this week
+chipsalliance / rocket-chip,Rocket Chip Generator,"1,602",9 stars this week
+lampepfl / dotty,Research compiler that will become Scala 3,"4,148",14 stars this week
+zio / zio,"ZIO — A type-safe, composable library for async and concurrent programming in Scala","2,535",10 stars this week
+typelevel / cats,"Lightweight, modular, and extensible library for functional programming.","4,086",10 stars this week
+twitter / finagle,"A fault tolerant, protocol-agnostic RPC system","7,762",8 stars this week
+Dan-M / dumbsterweb,"A Lift web app wrapping Dumbster, the fake Smtp Server",2,1 stars this week
+sifive / soc-testsocket-sifive,A simple SoC for testing IP blocks,8,0 stars this week
+sifive / soc-freedom-sifive,e300 and u500 devkits,7,0 stars this week
+sifive / block-inclusivecache-sifive,none,31,0 stars this week
+sifive / sifive-blocks,Common RTL blocks used in SiFive's projects,123,0 stars this week
+sifive / fpga-shells,none,80,0 stars this week
+ucb-bar / berkeley-hardfloat,none,119,1 stars this week
+ucb-bar / riscv-torture,RISC-V Torture Test,52,1 stars this week
+chipsalliance / api-config-chipsalliance,A Scala library for Context-Dependent Evironments,7,0 stars this week
+freechipsproject / firrtl,Flexible Intermediate Representation for RTL,351,2 stars this week
+lorenjerickson / cqrs-scala,scala implementation of simple CQRS example by Greg Young,2,0 stars this week
+apache / spark,Apache Spark - A unified analytics engine for large-scale data processing,"27,917",381 stars this month
+WeBankFinTech / Linkis,"Linkis helps easily connect to various back-end computation/storage engines(Spark, Python, TiDB...), exposes various interfaces(REST, JDBC, Java ...), with multi-tenancy, high performance, and resource control.","1,590",103 stars this month
+akka / akka,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM","11,172",64 stars this month
+chipsalliance / rocket-chip,Rocket Chip Generator,"1,602",29 stars this month
+scala / scala,"Scala 2 compiler and standard library. For bugs, see scala/bug","12,974",82 stars this month
+delta-io / delta,"An open-source storage layer that brings scalable, ACID transactions to Apache Spark™ and big data workloads.","2,842",73 stars this month
+xxf098 / shadowsocksr-v2ray-trojan-android,"A ShadowsocksR, V2Ray and Trojan client for Android",859,79 stars this month
+rtyley / bfg-repo-cleaner,"Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala","6,959",103 stars this month
+twitter / finagle,"A fault tolerant, protocol-agnostic RPC system","7,762",37 stars this month
+databricks / LearningSparkV2,This is the github repo for Learning Spark: Lightning-Fast Data Analytics [2nd Edition],146,33 stars this month
+ornicar / lila,"♞ lichess.org: the forever free, adless and open source chess server ♞","7,448",117 stars this month
+tpolecat / doobie,Functional JDBC layer for Scala.,"1,737",12 stars this month
+lampepfl / dotty,Research compiler that will become Scala 3,"4,148",46 stars this month
+gitbucket / gitbucket,"A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility","8,191",36 stars this month
+http4s / http4s,"A minimal, idiomatic Scala interface for HTTP","1,903",12 stars this month
+spotify / scio,A Scala API for Apache Beam and Google Cloud Dataflow.,"2,011",35 stars this month
+Dan-M / dumbsterweb,"A Lift web app wrapping Dumbster, the fake Smtp Server",2,1 stars this month
+sifive / block-inclusivecache-sifive,none,31,0 stars this month
+sifive / soc-testsocket-sifive,A simple SoC for testing IP blocks,8,0 stars this month
+sifive / soc-freedom-sifive,e300 and u500 devkits,7,0 stars this month
+sifive / fpga-shells,none,80,1 stars this month
+sifive / sifive-blocks,Common RTL blocks used in SiFive's projects,123,0 stars this month
